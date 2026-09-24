@@ -8,4 +8,8 @@ This is an edit I made in GitHub.
 
 This is another edit I'm going to send to GitHub with the terminal
 
+This is an edit I made in RStudio from andres-branch branch.
+
+This is an edit made by alheri
+
 This is another edit made by Andres to branch main.
